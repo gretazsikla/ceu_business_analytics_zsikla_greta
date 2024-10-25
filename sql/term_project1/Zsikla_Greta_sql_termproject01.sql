@@ -106,3 +106,7 @@ LINES TERMINATED BY '\n'
 IGNORE 1 LINES 
 (city, country, pop2024);
 select * from can_cities;
+
+-- -------------------------------------------------select and other functions---------------------------------------------------------
+select * from births;
+select distinct(year) from births;
