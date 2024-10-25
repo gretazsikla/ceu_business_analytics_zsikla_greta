@@ -107,6 +107,27 @@ IGNORE 1 LINES
 (city, country, pop2024);
 select * from can_cities;
 
+
+
 -- -------------------------------------------------select and other functions---------------------------------------------------------
 select * from births;
 select distinct(year) from births;
+
+select * from player_birth;
+select distinct birth_country from player_birth;
+select birth_country, count(player_id) as number_of_players 
+	from player_birth 
+    group by birth_country 
+    order by number_of_players desc;
+select birth_state_province, count(player_id) as number_of_players
+	from player_birth
+    where birth_country = 'CAN'
+    group by birth_state_province
+    order by number_of_players desc
+    limit 6;
+select birth_state_province, count(player_id) as number_of_players
+	from player_birth
+    where birth_country = 'USA'
+    group by birth_state_province
+    order by number_of_players desc
+    limit 6;
