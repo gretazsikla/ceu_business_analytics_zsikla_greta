@@ -60,7 +60,46 @@ The files that I downloaded from the [GitHub page](https://github.com/rfordatasc
    
 ### 5. Forward engineering
    - Here is a [link](https://github.com/gretazsikla/ceu_business_analytics_zsikla_greta/blob/main/sql/Term1/ERM_diagram_as_sql_file.mwb) to the sql script for the forward engineering
-   - 
+### 6. Exploratory Data Analysis
+   - Lines 113-173
+   - From which year do we have birth data? (1991-2022)
+   - How many NHL players came from each country? (From Canada 5468, from USA 1403 etc.)
+     | Country Code | Number of NHL Players |
+     |--------------|-----------------------|
+     | CAN          | 5468                  |
+     | USA          | 1403                  |
+     | SWE          | 403                   |
+   - Which 6 Canadian provinces produce the most NHL players, and how many come from each?
+      | Province           | Number of NHL Players |
+      |--------------------|-----------------------|
+      | Ontario            | 2407                  |
+      | Quebec             | 865                   |
+      | Alberta            | 645                   |
+      | Saskatchewan       | 530                   |
+      | Manitoba           | 408                   |
+      | British Columbia    | 408                   |
+   - Which 6 USA provinces produce the most NHL players, and how many come from each?
+      | State              | Number of NHL Players |
+      |--------------------|-----------------------|
+      | Minnesota          | 301                   |
+      | Massachusetts      | 219                   |
+      | Michigan           | 192                   |
+      | New York           | 144                   |
+      | Illinois           | 77                    |
+      | California         | 54                    |
+   - How many players does each team have in season 2010-2011?
+   - What is the average height in each team in season 2010-2011?
+   - What is the average weight in each team in season 2010-2011?
+   - What is the age of the players in each team in season 2010-2011?
+   - What is the average age in each team in season 2010-2011?
+   - Categorizing each player based on their age in season 2010-2011:
+      - if younger than 27 years then young
+      - average between 27-30
+      - if older than 30 then old 
+### 7. Dimensions
+Illeszd be a képet ide
+### 8. Data Warehouse
+
       
 
 
