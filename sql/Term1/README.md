@@ -55,6 +55,14 @@ The files that I downloaded from the [GitHub page](https://github.com/rfordatasc
         
     d. City Name Issue in rosters (similar to player_birth issue for player_id = 8475325)
       - Solution: Searched in Excel for all instances of "Garden River, First Nations" and updated them to "Garden River First Nations".
+### 4. ERM diagram
+![You should see my ERM diagram here, if you cannot see it, search it up in my repository as ERM_diagram_as_png](https://github.com/gretazsikla/ceu_business_analytics_zsikla_greta/blob/main/sql/Term1/ERM_diagram_as_png.png)
+   
+### 5. Forward engineering
+   - Here is a [link](https://github.com/gretazsikla/ceu_business_analytics_zsikla_greta/blob/main/sql/Term1/ERM_diagram_as_sql_file.mwb) to the sql script for the forward engineering
+   - 
+      
+
 
 
 
