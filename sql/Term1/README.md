@@ -97,7 +97,7 @@ The files that I downloaded from the [GitHub page](https://github.com/rfordatasc
       - average between 27-30
       - if older than 30 then old 
 ### 7. Dimensions
-Illeszd be a képet ide
+![You shpuld see a picture of the dimensions here, if you cannot see it, search it up in my repository](https://github.com/gretazsikla/ceu_business_analytics_zsikla_greta/blob/main/sql/Term1/Dimensions.png)
 ### 8. Data Warehouse
 At my Data Warehouse each row is one NHL player. Most of the important variables are in the player_birth table (player_id, first_name, last_name, birth year, birth month, birth_country, birth_city). For the city population dimension, we will need the can_cities table. As the name suggests, the table only contains data about canadian cities, but I don't want to lose the data about the players who are not canadian so I will use **left join**, instead of inner join.
 This is the result of the join:
