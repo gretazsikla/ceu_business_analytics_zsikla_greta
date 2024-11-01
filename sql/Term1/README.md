@@ -144,6 +144,33 @@ I update the data_warehouse_process with a new column where I divide the Sum_bir
 |------------|------------|-----------|------------|-------------|---------|--------------|------------|--------------------------|----------------------|
 | Mathieu    | Perreault  | 8473618   | 1988       | 1           | Canada  | Drummondville | 59489     | 402161                   | 9.44317              |
 
+The last part of creating the data warehouse is adding the percentage values, that how many players were born in each month. For this, I count the number players by month and create a new table called player_birth_summary.
+| Birth month | Number of players born |
+|-------|--------|
+| 1     | 395    |
+| 2     | 389    |
+| 3     | 371    |
+| 4     | 406    |
+| 5     | 402    |
+| 6     | 323    |
+| 7     | 304    |
+| 8     | 263    |
+| 9     | 308    |
+| 10    | 276    |
+| 11    | 264    |
+| 12    | 250    |
+
+With an inner join I add these data to the data warehouse. I calculate the total number of players born in the data warehouse (3951) and save it as a value (@number_of_NHLplayers_born). I add a column called players_born_percent to the data warehouse, where I divide the number of players by the total number of players and multiply it by 100.
+
+This is my final Data Warehouse:
+| First Name | Last Name    | Player ID | Birth Year | Birth Month | B_Country | B_City          | Pop2024 | Sum Birth Data Per Month | People Born Percent | Players_born_by_month | Players_born_percent |
+|------------|--------------|-----------|------------|-------------|---------|---------------|---------|--------------------------|---------------------|----------------|----------------|
+| Mathieu    | Perreault    | 8473618   | 1988       | 1           | Canada  | Drummondville | 59489   | 402161                   | 9.44317            | 395            | 9.99747       |
+| Josh       | Tordjman     | 8473632   | 1985       | 1           | Canada  | Montreal      | 1600000 | 402161                   | 9.44317            | 395            | 9.99747       |
+| Andrew     | Ebbett       | 8473682   | 1983       | 1           | Canada  | Vernon        | 47274   | 402161                   | 9.44317            | 395            | 9.99747       |
+| Maxime     | Macenauer    | 8474139   | 1989       | 1           | Canada  | Laval         | 376845  | 402161                   | 9.44317            | 395            | 9.99747       |
+
+
 
 
 
