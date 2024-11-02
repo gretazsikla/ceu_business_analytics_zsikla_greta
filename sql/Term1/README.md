@@ -170,7 +170,37 @@ This is my final Data Warehouse:
 | Andrew     | Ebbett       | 8473682   | 1983       | 1           | Canada  | Vernon        | 47274   | 402161                   | 9.44317            | 395            | 9.99747       |
 | Maxime     | Macenauer    | 8474139   | 1989       | 1           | Canada  | Laval         | 376845  | 402161                   | 9.44317            | 395            | 9.99747       |
 
+### 9. Data Marts
+**Data Mart for comparing general birt data, and NHL players' birth data**
+| Month | General birth data (%) | NHL players birth data (%) | Difference |
+|-------|---------|---------|------------|
+| 1     | 9.44    | 10      | 0.56       |
+| 2     | 9.03    | 9.85    | 0.82       |
+| 3     | 9.59    | 9.39    | -0.2       |
+| 4     | 10.16   | 10.28   | 0.12       |
+| 5     | 11.26   | 10.17   | -1.09      |
+| 6     | 9.45    | 8.18    | -1.27      |
+| 7     | 9.7     | 7.69    | -2.01      |
+| 8     | 8.68    | 6.66    | -2.02      |
+| 9     | 8.71    | 7.8     | -0.91      |
+| 10    | 8.97    | 6.99    | -1.98      |
+| 11    | 8.39    | 6.68    | -1.71      |
+| 12    | 7.96    | 6.33    | -1.63      |
 
+**Data Mart for comparing what is the NHL player/population ratio in cities/towns/villages.**
+I supposed that in big cities there are more opportunity, equipment and better coaches and that's why the ratio is smaller than in towns/villages.
+| Population per NHL Player ratio | City Population Category        |
+|-----------------------|----------------------------------|
+| 4,253.4842            | Below 15,000                    |
+| 7,560.1829            | Between 15,000 and 50,000       |
+| 22,010.5227           | Above 50,000                    |
 
+I made up the categories so that in each category there are approximately same amount of cities.
+
+| Number of cities | City Population Category        |
+|-----------------------|----------------------------------|
+| 95                    | Below 15,000                    |
+| 82                    | Between 15,000 and 50,000       |
+| 88                    | Above 50,000                    |
 
 
