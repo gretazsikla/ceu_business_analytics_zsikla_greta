@@ -1,0 +1,400 @@
+city;country;pop2024
+Toronto;Canada;2600000
+Montreal;Canada;1600000
+Calgary;Canada;1019942
+Ottawa;Canada;812129
+Edmonton;Canada;712391
+Mississauga;Canada;668549
+North York;Canada;636000
+Winnipeg;Canada;632063
+Vancouver;Canada;600000
+Scarborough;Canada;600000
+Quebec;Canada;528595
+Hamilton;Canada;519949
+Brampton;Canada;433806
+Surrey;Canada;394976
+Laval;Canada;376845
+Halifax;Canada;359111
+Etobicoke;Canada;347948
+London;Canada;346765
+Okanagan;Canada;297601
+Victoria;Canada;289625
+Windsor;Canada;278013
+Markham;Canada;261573
+Oshawa;Canada;247989
+Gatineau;Canada;242124
+Vaughan;Canada;238866
+Kitchener;Canada;233700
+Longueuil;Canada;229330
+Burnaby;Canada;202799
+Ladner;Canada;200000
+Saskatoon;Canada;198958
+Richmond Hill;Canada;185541
+Barrie;Canada;182041
+Richmond;Canada;182000
+Nepean;Canada;180000
+Regina;Canada;176183
+Oakville;Canada;165697
+Burlington;Canada;164415
+Greater Sudbury;Canada;157857
+Abbotsford;Canada;151683
+Saguenay;Canada;143692
+St. Catharines;Canada;131989
+Sherbrooke;Canada;129447
+Anmore;Canada;126456
+Levis;Canada;126396
+Kelowna;Canada;125109
+Cambridge;Canada;120372
+Trois-Rivieres;Canada;119693
+Guelph;Canada;115760
+East York;Canada;115365
+Coquitlam;Canada;114565
+Kingston;Canada;114195
+Sydney;Canada;105968
+Delta;Canada;101668
+Dartmouth;Canada;101343
+Thunder Bay;Canada;99334
+St. John's;Canada;99182
+Waterloo;Canada;97475
+Terrebonne;Canada;94703
+Ajax;Canada;90167
+Saint John;Canada;87857
+Pickering;Canada;87838
+Brantford;Canada;87759
+Moncton;Canada;87467
+Nanaimo;Canada;84905
+Milton;Canada;84362
+Sarnia;Canada;82998
+Niagara Falls;Canada;82000
+Willowdale;Canada;79440
+Saint-Laurent;Canada;77391
+Chilliwack;Canada;77000
+Repentigny;Canada;76237
+Fort McMurray;Canada;76000
+Peterborough;Canada;75877
+Sault Ste. Marie;Canada;74948
+Newmarket;Canada;74295
+La Haute-Saint-Charles;Canada;74070
+Red Deer;Canada;73593
+Saint-Leonard;Canada;73423
+Saint-Jean-sur-Richelieu;Canada;71613
+Lethbridge;Canada;70617
+Maple Ridge;Canada;70000
+Brossard;Canada;69575
+Kamloops;Canada;68714
+Notre-Dame-de-Grace;Canada;67000
+White Rock;Canada;66450
+Prince George;Canada;65558
+Medicine Hat;Canada;63138
+Norfolk County;Canada;60847
+Drummondville;Canada;59489
+New Westminster;Canada;58549
+St. Albert;Canada;57719
+Sherwood Park;Canada;55063
+Saint-Jerome;Canada;54948
+Jonquiere;Canada;54842
+Granby;Canada;53979
+Fredericton;Canada;52337
+Welland;Canada;50331
+Saint-Hyacinthe;Canada;50326
+North Bay;Canada;50170
+Belleville;Canada;49454
+Shawinigan;Canada;49161
+Dollard-Des Ormeaux;Canada;48930
+Cornwall;Canada;48821
+North Vancouver;Canada;48000
+Vernon;Canada;47274
+Blainville;Canada;46493
+West End;Canada;44560
+Chatham;Canada;43550
+Timmins;Canada;42997
+Chateauguay;Canada;42786
+Quinte West;Canada;42697
+West Vancouver;Canada;42694
+Charlottetown;Canada;42402
+Rimouski;Canada;42240
+Saint-Eustache;Canada;42062
+Grande Prairie;Canada;41462
+Boucherville;Canada;39062
+Salaberry-de-Valleyfield;Canada;38662
+Penticton;Canada;37721
+St. Thomas;Canada;36110
+Rock Forest;Canada;35500
+Joliette;Canada;34772
+Mascouche;Canada;34626
+Mirabel;Canada;34626
+Prince Albert;Canada;34609
+Victoriaville;Canada;34426
+Brant;Canada;34415
+Woodstock;Canada;33892
+Campbell River;Canada;33430
+Ancaster;Canada;33232
+Courtenay;Canada;32793
+Orangeville;Canada;32640
+North Cowichan;Canada;32272
+Moose Jaw;Canada;32166
+Midland;Canada;31502
+Cote-Saint-Luc;Canada;31395
+Saint-Georges;Canada;31173
+Val-d'Or;Canada;31123
+Stratford;Canada;30233
+Orillia;Canada;30178
+Pointe-Claire;Canada;30161
+Baie-Comeau;Canada;29808
+Alma;Canada;29526
+Sainte-Julie;Canada;29019
+West Kelowna;Canada;28793
+Port Moody;Canada;27512
+Lloydminster;Canada;27000
+Boisbriand;Canada;26483
+Brandon;Canada;26234
+Vaudreuil-Dorion;Canada;25789
+Thetford-Mines;Canada;25704
+Walnut Grove;Canada;25683
+Prince Edward;Canada;25496
+Sainte-Therese;Canada;25224
+Airdrie;Canada;24673
+Mount Pearl;Canada;24671
+Saint-Bruno-de-Montarville;Canada;24388
+Rouyn-Noranda;Canada;24023
+Saint-Constant;Canada;23957
+Brockville;Canada;23886
+Langley;Canada;23606
+Whitehorse;Canada;23272
+Owen Sound;Canada;22625
+Chambly;Canada;22608
+Sept-Iles;Canada;22582
+Langford;Canada;22459
+Duncan;Canada;22199
+La Prairie;Canada;21763
+Lower Sackville;Canada;21379
+Port Alberni;Canada;21282
+Keswick;Canada;21000
+Varennes;Canada;20950
+Clarence-Rockland;Canada;20790
+Truro;Canada;20650
+Westmount;Canada;20494
+Kirkland;Canada;20491
+Lindsay;Canada;20354
+New Glasgow;Canada;20322
+Cole Harbour;Canada;20000
+Glace Bay;Canada;19968
+Huntsville;Canada;19579
+Terrace;Canada;19443
+North Battleford;Canada;19440
+Beaconsfield;Canada;19194
+Mont-Royal;Canada;18933
+Beloeil;Canada;18927
+Corner Brook;Canada;18693
+Cranbrook;Canada;18610
+Port Colborne;Canada;18599
+Riviere-du-Loup;Canada;18586
+Dieppe;Canada;18565
+Thorold;Canada;18224
+Miramichi;Canada;18129
+Cobourg;Canada;18099
+Dorval;Canada;18088
+Oak Bay;Canada;18015
+Amos;Canada;17918
+Spruce Grove;Canada;17767
+Pitt Meadows;Canada;17410
+Deux-Montagnes;Canada;17402
+Fort St. John;Canada;17402
+Saint-Augustin-de-Desmaures;Canada;17281
+Conception Bay South;Canada;17087
+Saint-Lazare;Canada;17016
+Sainte-Catherine;Canada;16762
+L'Assomption;Canada;16738
+Edmundston;Canada;16643
+L'Ancienne-Lorette;Canada;16516
+Cochrane;Canada;16365
+Lutes Mountain;Canada;16311
+Salmon Arm;Canada;16205
+Rayside-Balfour;Canada;16050
+Petawawa;Canada;15988
+Fort Erie;Canada;15953
+Candiac;Canada;15947
+Yellowknife;Canada;15865
+Collingwood;Canada;15809
+Mont-Saint-Hilaire;Canada;15720
+Camrose;Canada;15686
+Yorkton;Canada;15669
+Saint-Basile-le-Grand;Canada;15605
+Leduc;Canada;15561
+Pembroke;Canada;15551
+Magog;Canada;15550
+Greater Napanee;Canada;15132
+Kenora;Canada;15096
+le Plateau;Canada;15000
+Fort Saskatchewan;Canada;14957
+Okotoks;Canada;14826
+Gaspe;Canada;14819
+Matane;Canada;14812
+Summerside;Canada;14808
+Prince Rupert;Canada;14708
+Swift Current;Canada;14703
+Colwood;Canada;14687
+Rosemere;Canada;14173
+Williams Lake;Canada;14168
+Saint-Lin-Laurentides;Canada;14159
+Simcoe;Canada;13922
+Quesnel;Canada;13788
+Bay Roberts;Canada;13737
+Mont-Laurier;Canada;13405
+Portage la Prairie;Canada;12957
+Dolbeau-Mistassini;Canada;12916
+Powell River;Canada;12779
+Brooks;Canada;12744
+Bathurst;Canada;12714
+Kentville;Canada;12636
+Elliot Lake;Canada;12508
+Thompson;Canada;12467
+Aldergrove;Canada;12363
+Canmore;Canada;12288
+Hawkesbury;Canada;12283
+North Perth;Canada;12254
+Grand Falls-Windsor;Canada;12076
+Parksville;Canada;12000
+Beauharnois;Canada;11918
+Ingersoll;Canada;11874
+Montmagny;Canada;11724
+Cold Lake;Canada;11595
+Sainte-Marie;Canada;11584
+Uxbridge;Canada;11531
+Fall River;Canada;11526
+Amherstburg;Canada;11459
+Sainte-Marthe-sur-le-Lac;Canada;11311
+Wetaskiwin;Canada;11302
+Pincourt;Canada;11197
+Paris;Canada;11177
+Becancour;Canada;11134
+North Saanich;Canada;11089
+Cowansville;Canada;10887
+Dawson Creek;Canada;10802
+Sainte-Anne-des-Plaines;Canada;10680
+Lambton Shores;Canada;10656
+Sainte-Adele;Canada;10634
+Les Coteaux;Canada;10622
+Whistler;Canada;10600
+Smiths Falls;Canada;10553
+Sylvan Lake;Canada;10518
+Temiskaming Shores;Canada;10442
+Cantley;Canada;10412
+Rawdon;Canada;10400
+Labrador City;Canada;10313
+Angus;Canada;10269
+Prevost;Canada;10132
+Mercier;Canada;10121
+Lacombe;Canada;10059
+Strathmore;Canada;10009
+Hanceville;Canada;10000
+South Huron;Canada;9982
+Bells Corners;Canada;9977
+L'Ile-Perrot;Canada;9927
+Estevan;Canada;9904
+Hinton;Canada;9889
+Notre-Dame-de-l'Ile-Perrot;Canada;9885
+High River;Canada;9826
+Nelson;Canada;9813
+Carleton Place;Canada;9743
+Trail;Canada;9707
+Selkirk;Canada;9653
+Lorraine;Canada;9613
+Arnprior;Canada;9607
+Steinbach;Canada;9607
+Lachute;Canada;9562
+Val-des-Monts;Canada;9539
+La Tuque;Canada;9503
+Weyburn;Canada;9362
+Amherst;Canada;9336
+Dorchester;Canada;9329
+Roberval;Canada;9287
+Saint-Raymond;Canada;9273
+Huron East;Canada;9264
+Kapuskasing;Canada;9240
+Saint-Sauveur;Canada;9191
+Oromocto;Canada;8998
+Kitimat;Canada;8987
+La Malbaie;Canada;8959
+Stony Plain;Canada;8939
+Mont-Tremblant;Canada;8892
+Binbrook;Canada;8796
+Whitecourt;Canada;8763
+Lavaltrie;Canada;8762
+Ladysmith;Canada;8740
+Pont-Rouge;Canada;8723
+Castlegar;Canada;8715
+Otterburn Park;Canada;8464
+Dauphin;Canada;8418
+Bois-des-Filion;Canada;8383
+Winkler;Canada;8270
+Concord;Canada;8255
+Bracebridge;Canada;8238
+Notre-Dame-des-Prairies;Canada;8230
+Dryden;Canada;8195
+Taber;Canada;8163
+Morinville;Canada;8108
+Silver Berry;Canada;8089
+Saint-Felicien;Canada;8088
+Saint-Hippolyte;Canada;8083
+Bridgewater;Canada;8070
+Goderich;Canada;8032
+Wild Rose;Canada;8031
+Renfrew;Canada;8018
+Edson;Canada;7975
+Fort Frances;Canada;7931
+Chandler;Canada;7914
+Kirkland Lake;Canada;7775
+Slave Lake;Canada;7661
+Happy Valley-Goose Bay;Canada;7572
+Wasaga Beach;Canada;7567
+Chibougamau;Canada;7563
+Revelstoke;Canada;7533
+Aylmer;Canada;7527
+Pont Rouge;Canada;7518
+Camlachie;Canada;7506
+Banff;Canada;7502
+Yarmouth;Canada;7500
+Carignan;Canada;7426
+Campbellton;Canada;7384
+Beaumont;Canada;7366
+Innisfil;Canada;7345
+Delson;Canada;7322
+Sydney Mines;Canada;7312
+Baie-Saint-Paul;Canada;7288
+Hanover;Canada;7255
+La Sarre;Canada;7206
+Asbestos;Canada;7190
+Merritt;Canada;7179
+Bluewater;Canada;7044
+Coaticook;Canada;7021
+Hampstead;Canada;6996
+Olds;Canada;6947
+Greenwood;Canada;6915
+Gibsons;Canada;6821
+Carbonear;Canada;6814
+Saint-Zotique;Canada;6773
+Kincardine;Canada;6725
+Plessisville;Canada;6677
+Brownsburg-Chatham;Canada;6664
+Ponoka;Canada;6656
+Mont-Joli;Canada;6568
+Rocky Mountain House;Canada;6527
+Kimberley;Canada;6513
+Perth;Canada;6481
+Parry Sound;Canada;6469
+Pointe-Calumet;Canada;6396
+Morden;Canada;6395
+Coaldale;Canada;6317
+Summerland;Canada;6292
+Stephenville;Canada;6278
+Amqui;Canada;6261
+Beauceville;Canada;6226
+Saint-Joseph-du-Lac;Canada;6195
+Sooke;Canada;6145
+Iqaluit;Canada;6124
+Drayton Valley;Canada;6099
+Farnham;Canada;6061
+The Pas;Canada;6055
+Bromont;Canada;6049
+Saint-Felix-de-Valois;Canada;6029
